@@ -211,7 +211,6 @@ getCode();
   font-size: 12px;
   letter-spacing: 1px;
 }
-
 .register-code-img {
   height: 40px;
   padding-left: 12px;
